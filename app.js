@@ -69,6 +69,8 @@ function remover(indice) {
 
    lista_de_produtos.splice (indice , 1)
 
+
+
 }
 
 function ver() {
@@ -84,12 +86,6 @@ function ver() {
     }
     alert(texto)
 
-
-
-}
-    } else {
-        alert("Nenhuma das opção foram selecionadas")
-    }
 
 
 }
